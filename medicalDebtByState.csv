@@ -1,4 +1,4 @@
-fips,state_name,state,avg_medical_debt,pt_collections,avg_household_income,latitude,longitude
+fips,state_name,state,avg_medical_debt,pt_collections,avg_household_income,latitude,longitude 
 02,Alaska,AK,1313,.1463462,96080,63.588753,-154.493062
 01,Alabama,AL,1000,.1931399,69091,32.318231,-86.902298
 05,Arkansas,AR,662,.2000561,66766,35.20105,-91.831833
