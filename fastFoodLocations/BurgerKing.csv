@@ -1,4 +1,4 @@
-Address,City,State,Link,Latitude,Longitude,Franchise,ZipCode,
+Address,City,State,Link,Latitude,Longitude,Franchise,ZipCode,Url
 982 Macon St,Warner Robins,US,us/ga/warnerrobins/982maconst/-2061630068,32.59495,-83.58338,Burger King,31098,GA,"http://www.bk.com,https://locations.bk.com/ga/warner-robins/982-macon-st.html,https://www.bk.com"
 6060 San Mateo Blvd NE,Albuquerque,US,us/nm/albuquerque/6060sanmateoblvdne/-2061630068,35.144456,-106.585927,Burger King,87109,NM,"http://www.bk.com,https://locations.bk.com/nm/albuquerque/6060-san-mateo-ne.html,https://www.bk.com"
 18000 Bagley Rd,Cleveland,US,us/oh/cleveland/18000bagleyrd/-2061630068,41.373042,-81.826072,Burger King,44130,OH,http://www.bk.com
